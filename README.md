@@ -1,3 +1,3 @@
 ### Спецификация требований к ПО Сhatty 2.0
 Спецификация требований к веб-приложению Chatty 2.0 для обучения английскому языку (новые функции словаря и карточек для изучения новых слов)  
-* [SRS Chatty 2.0](https://github.com/user-attachments/files/21335755/SRS.Chatty.2.0.docx)
+* [SRS Chatty 2.0](https://github.com/user-attachments/files/21335755/SRS.Chatty.2.0.docx) (.docx)
