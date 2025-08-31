@@ -14,7 +14,7 @@
   - [Интерактивный прототип](https://www.figma.com/design/KIaWHM9X6DMNPzdoKOCkIB/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-Stets-Home?node-id=0-1&t=dZNS1xMHMDZhpFFo-1)
     
   - [Демо интерактивного прототипа в Figma](https://drive.google.com/file/d/1jLQsJq2DepHhUCggHlFjnGEFp32Pw4F9/view?usp=sharing) 
-
+<br><br>
 
 ### 📚 Приложение для обучения английскому языку 
    - [Спецификация требований](https://docs.google.com/document/d/10GKAGVqQqOGM7TF35njRRrN0s5AR9jPpjcmdi2IYkd0/edit?usp=sharing) к веб-приложению для обучения английскому языку.  
