@@ -1,5 +1,5 @@
 ### Спецификация требований к ПО
-[Спецификация] (https://docs.google.com/document/d/10GKAGVqQqOGM7TF35njRRrN0s5AR9jPpjcmdi2IYkd0/edit?usp=sharing) требований к веб-приложению Chatty 2.0 для обучения английскому языку 
+[Спецификация](https://docs.google.com/document/d/10GKAGVqQqOGM7TF35njRRrN0s5AR9jPpjcmdi2IYkd0/edit?usp=sharing) требований к веб-приложению Chatty 2.0 для обучения английскому языку 
 * 
 
 ### Моделирование процессов сети клиник "Вита"
