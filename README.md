@@ -1,7 +1,7 @@
 # 👨‍💻 SA/BA -портфолио
 
 - ### 🏠 Приложение для управления умным домом
-  [Карта пользовательских историй](https://miro.com/welcomeonboard/MDlITjU5UnpXMWZRb3kyaEhzcnpDVUNuN012OXVlMHlNTzgySFV6NzNCQzFPQTFoN1BIemZNMThqYWlmU0x5YW5MQWZkYUlTSzNqUWdRbHpBZVBzYjJWaUNtcE9vcXJYbDRiYUtzTmZEMklQZHF2bFdnYWxvbXNhREVIUDF2VWRNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=694201019392)
+--[Карта пользовательских историй](https://miro.com/welcomeonboard/MDlITjU5UnpXMWZRb3kyaEhzcnpDVUNuN012OXVlMHlNTzgySFV6NzNCQzFPQTFoN1BIemZNMThqYWlmU0x5YW5MQWZkYUlTSzNqUWdRbHpBZVBzYjJWaUNtcE9vcXJYbDRiYUtzTmZEMklQZHF2bFdnYWxvbXNhREVIUDF2VWRNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=694201019392)
   [Диаграмма потоков данных DFD](https://drive.google.com/file/d/1cDqwJSfXTjYa5rI7gTX2v8UDm25SP-R4/view?usp=sharing)
   [ER-диаграмма](https://drive.google.com/file/d/17V-ah8eGLdRBxd92UjFdpU5fz6skYUBN/view?usp=sharing)
   [Словарь данных](https://docs.google.com/document/d/1fM0eRyTQzTDPJQmZciVtbXOVTuS9Bo9k/edit?usp=sharing&ouid=116205324696312240094&rtpof=true&sd=true)
